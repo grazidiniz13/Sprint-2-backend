@@ -12,14 +12,11 @@ O sistema foi modelado com base nas seguintes entidades principais:
 - **`id_cliente` (PK)**: Identificador único do cliente.
 - `nome`: Nome completo.
 - `email`: Endereço de e-mail.
-- `telefone`: Contato telefônico.
 
 ### **Livro**
 - **`id_livro` (PK)**: Identificador único do livro.
 - `titulo`: Título da obra.
 - `autor`: Nome do autor.
-- `preco`: Preço unitário.
-- `estoque`: Quantidade de exemplares disponíveis.
 
 ### **Pedido**
 - **`id_pedido` (PK)**: Identificador único da transação.
