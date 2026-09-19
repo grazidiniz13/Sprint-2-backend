@@ -1,4 +1,4 @@
-# 🗺️ Documento do Modelo Conceitual - Sprint 2
+# 🗺️ Documento do Modelo Conceitual - Sprint 1
 
 ## 1. Lista de Entidades
 O sistema foi modelado com base nas seguintes entidades principais:
